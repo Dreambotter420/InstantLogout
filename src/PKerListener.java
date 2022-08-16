@@ -17,6 +17,7 @@ public class PKerListener implements Runnable{
             	if(Main.shouldPanic())
             	{
             		manager.resume();
+                    MethodProvider.log("PKerListener Thread stopping!");
                     Main.threadAlive = false;
             		return;
             	}
