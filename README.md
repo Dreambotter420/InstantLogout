@@ -1,4 +1,4 @@
-Start script, then wander around wildy while playing manually. 
+Start script then wander around wildy while playing manually. 
 
 If a PKer is detected, script unpauses, changes Mouse speed to 100%, then spams logout. Once logged out script stops. Restart script to login to account and unpause again to detect more pkers.
 
